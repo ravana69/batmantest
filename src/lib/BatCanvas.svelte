@@ -4,7 +4,7 @@
 
   import type { BatData } from "../App.svelte";
 
-  import batmanBg from "https://thispersondoesnotexist.com/image";
+  import batmanBg from 'https://thispersondoesnotexist.com/image';
   import DownloadErrorModal from "./DownloadErrorModal.svelte";
 
   export let batData: BatData;
